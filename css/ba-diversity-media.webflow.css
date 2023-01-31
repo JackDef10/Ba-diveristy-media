@@ -2095,6 +2095,10 @@ a {
     padding-left: 0px;
   }
 
+  .section-header-2 {
+    padding-bottom: 15px;
+  }
+
   .header-block {
     text-align: center;
   }
@@ -2136,8 +2140,17 @@ a {
   }
 
   .hero-heading {
-    font-size: 44px;
-    line-height: 62px;
+    font-size: 32px;
+    line-height: 42px;
+  }
+
+  .special-text {
+    font-size: 54px;
+  }
+
+  .f-h3-heading {
+    font-size: 32px;
+    line-height: 42px;
   }
 
   .f-team-social-circle {
@@ -2163,6 +2176,10 @@ a {
     padding-left: 14px;
   }
 
+  .special-text-2 {
+    font-size: 54px;
+  }
+
   .f-cta-form-wrapper {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2177,6 +2194,22 @@ a {
 
   .f-cta-form-block {
     width: 100%;
+  }
+
+  .f-cta-grid-b {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .special-text-3 {
+    font-size: 42px;
   }
 
   .f-team-card-outline {
@@ -2249,6 +2282,10 @@ a {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
+  }
+
+  .div-block-4 {
+    width: 300px;
   }
 }
 
